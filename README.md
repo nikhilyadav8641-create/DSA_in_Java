@@ -7,15 +7,30 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0268-missing-number](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0540-single-element-in-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0268-missing-number](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0540-single-element-in-a-sorted-array) |
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0441-arranging-coins) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
