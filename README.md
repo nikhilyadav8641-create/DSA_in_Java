@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0441-arranging-coins) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0441-arranging-coins) |
 ## Hash Table
@@ -35,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0268-missing-number) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
