@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0268-missing-number) |
 ## Bit Manipulation
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0257-binary-tree-paths) |
 ## Stack
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0543-diameter-of-binary-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
