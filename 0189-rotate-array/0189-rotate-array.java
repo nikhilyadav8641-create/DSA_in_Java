@@ -14,6 +14,7 @@ class Solution {
     public void rotate(int[] arr, int k) {
         int n=arr.length;
         k=k%n;
+        // isse use krne se 0ms runtime ho gya
         if(k<0)
         {
             k+=n;
