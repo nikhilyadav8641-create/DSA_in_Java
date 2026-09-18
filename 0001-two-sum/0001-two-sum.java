@@ -9,7 +9,7 @@ class Solution {
 				{
 					ans[0]=i;
                     ans[1]=(map.get(ele));
-					// return;
+					break;
 				}
             map.put(arr[i],i);
             
