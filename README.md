@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0268-missing-number) |
@@ -172,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0169-majority-element) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
