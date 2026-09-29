@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0189-rotate-array) |
+| [0260-single-number-iii](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0540-single-element-in-a-sorted-array) |
 ## Binary Search
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0268-missing-number) |
 ## Sorting
 |  |
