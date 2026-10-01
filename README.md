@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0189-rotate-array) |
+| [0239-sliding-window-maximum](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0540-single-element-in-a-sorted-array) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0239-sliding-window-maximum) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -183,4 +185,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0050-powx-n) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
