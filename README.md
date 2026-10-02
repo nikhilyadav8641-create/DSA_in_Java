@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0137-single-number-ii) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0242-valid-anagram) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0113-path-sum-ii](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0113-path-sum-ii](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -168,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0004-median-of-two-sorted-arrays) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
