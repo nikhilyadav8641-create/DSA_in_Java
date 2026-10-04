@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0268-missing-number) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0268-missing-number) |
 ## Bit Manipulation
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0268-missing-number) |
 ## Newton's Method
@@ -190,10 +193,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0229-majority-element-ii) |
 ## Recursion
 |  |
 | ------- |
