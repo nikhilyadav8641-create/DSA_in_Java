@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0347-top-k-frequent-elements) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0540-single-element-in-a-sorted-array) |
 ## Binary Search
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0347-top-k-frequent-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0347-top-k-frequent-elements) |
 ## Newton's Method
 |  |
 | ------- |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -215,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0347-top-k-frequent-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -232,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0347-top-k-frequent-elements) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -240,4 +246,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0239-sliding-window-maximum) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
