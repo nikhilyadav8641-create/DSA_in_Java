@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0347-top-k-frequent-elements) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0540-single-element-in-a-sorted-array) |
 ## Binary Search
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0347-top-k-frequent-elements) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0347-top-k-frequent-elements) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Newton's Method
 |  |
 | ------- |
