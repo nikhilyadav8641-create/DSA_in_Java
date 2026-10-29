@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0540-single-element-in-a-sorted-array) |
 ## Binary Search
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0349-intersection-of-two-arrays) |
 | [0441-arranging-coins](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0540-single-element-in-a-sorted-array) |
 ## Math
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Bit Manipulation
 |  |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Newton's Method
 |  |
@@ -229,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0189-rotate-array) |
+| [0349-intersection-of-two-arrays](https://github.com/nikhilyadav8641-create/DSA_in_Java/tree/master/0349-intersection-of-two-arrays) |
 ## Counting
 |  |
 | ------- |
